@@ -3,7 +3,7 @@ import urllib
 
 url = "http://10.0.0.1/login.cgi"
 
-username = "qyalys@binary.me"
+username = "qualys@binary.me"
 password = "5L2VLi4uIOOBiuWJjeOBr+OCguOBhuatu+OCk+OBp+OBhOOCizs="
 token = "AlLba5364"
 
